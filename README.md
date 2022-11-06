@@ -1,6 +1,6 @@
 # Air-Defense-System
  
-### Demonstration: https://qualuo.github.io/Air-Defense-System/
+### Prototype Demonstration: https://qualuo.github.io/Air-Defense-System/
 
 Air defense system inspired by Israel's [Iron Dome](https://en.wikipedia.org/wiki/Iron_Dome). The simulation launches attacking rockets from various random angles and when detected by the launcher system, sends interceptor [missiles](https://en.wikipedia.org/wiki/Missile) to take care of them. 
 
